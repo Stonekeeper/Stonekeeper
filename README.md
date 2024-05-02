@@ -1,3 +1,1 @@
 - 👋 Hi, I’m Praveen Kumar
-- 👀 I’m interested in Web Development & App Devlopment
-- 🌱 I’m currently learning Flutter
